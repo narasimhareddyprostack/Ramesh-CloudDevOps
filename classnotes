@@ -21,3 +21,15 @@ Remote Desktop
 window + R  - Press
 
 in cmd promot --> mstsc
+-------------------------------------------
+Git Commands
+
+>> git fetch
+>>git merge
+>> fetch + merge = pull
+
+>> git ls-files
+
+>> git branch
+>> git ls-files
+>> git checkout dev  ---> switch to new branch
