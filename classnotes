@@ -1,0 +1,23 @@
+hostname
+
+whoami
+
+sudo su                  - First we need to become a root
+
+yum update -y            - It good practce to update your VM 
+
+
+yum install httpd -y     - To install HTTP/Apache server 
+
+service httpd start      - To Http Service
+chkconfig httpd  on      - Whenever VM restarted, HTTP Service is on 
+cd /var/www/html/        - Going to HTML Directory
+nano index.html
+
+---------------------
+RDP
+Remote Desktop
+
+window + R  - Press
+
+in cmd promot --> mstsc
