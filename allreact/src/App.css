@@ -1,0 +1,18 @@
+nav {
+  background-color: blueviolet;
+  padding: 10px;
+  font-size: 18px;
+}
+nav a {
+  color: white;
+  text-decoration: none;
+}
+.landing {
+  background: white url("./assets/img/bg-image.jpg") no-repeat scroll center;
+  background-size: cover;
+  height: 100vh;
+}
+.wrapper {
+  background-color: rgba(0, 0, 0, 0.5);
+  height: 100%;
+}
